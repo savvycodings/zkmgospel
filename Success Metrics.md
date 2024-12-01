@@ -19,6 +19,11 @@
    - Resource efficiency
    - Processing speed
    - Cost effectiveness
+   - Fleek deployment metrics
+     - Global deployment latency
+     - Auto-scaling efficiency
+     - Platform performance scores
+     - Deployment success rates
 
 2. Development Experience
    - Build success rates
